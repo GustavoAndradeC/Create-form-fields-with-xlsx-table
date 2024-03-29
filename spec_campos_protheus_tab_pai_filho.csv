@@ -1,0 +1,3 @@
+﻿aba;secao;px_width;linha;sistema;campo;titulo_pt;titulo_en;titulo_es;tipo;opcoes;consulta_tabela;tamanho;editavel_adc;obrigatorio_adc;oculto_adc;editavel_alt;obrigatorio_alt;oculto_alt;editavel_bloq;obrigatorio_bloq;oculto_bloq;editavel_cons;obrigatorio_cons;oculto_cons;integracao;fluig_salva
+Indicadores de Produtos;--;100;1;Protheus;BZ_FILIAL ;Filial      ;Sucursal    ;Branch      ;zoom;{'displayKey':'M0_NOME', 'datasetId':'dts_SM0', 'fields':[{'field':'M0_FILIAL', 'label':'Codigo'},{'field':'M0_NOME', 'search': 'true', 'label':'Descricao'}]};SM0   ;2;;;;;;;;;;;;;;
+
